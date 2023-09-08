@@ -1,4 +1,3 @@
 
 environment.yml
-helpers/*
-analysis-template.ipynb
+/helpers/*
