@@ -1,2 +1,3 @@
-# 5ARB0_Assignment1
-Assignment 1 Data Analysis
+# 5ARB0 - Assignment 1 - PCA | ICA | Kmeans | Gaussian Mixture Modelling
+
+1st Assignment of Data Analysis course
